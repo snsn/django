@@ -29,5 +29,6 @@
     },
     "globals": {
         "django": false
+        '1': 1
     }
 }
